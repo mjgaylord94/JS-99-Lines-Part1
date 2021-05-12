@@ -13,6 +13,6 @@ h1 {
     padding: 2em;
 }
 
-h3 {
+.friend > h3 {
     text-transform: uppercase;
 }
